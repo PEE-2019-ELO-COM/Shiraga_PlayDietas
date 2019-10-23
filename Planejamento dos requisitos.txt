@@ -1,0 +1,11 @@
+Frontend e Web:
+ - Ionic
+ - Cordova (se necessário. Acho que não vai ser)
+
+Backend:
+ - Python (Django, a princípio)
+ - Node.js (não vou utilizar)
+
+/// API:
+ - Flask (poucas rotas)
+ - Node.js: bom para tratar assincronicidades
