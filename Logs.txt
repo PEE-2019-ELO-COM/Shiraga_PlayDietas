@@ -1,0 +1,4 @@
+# Log de alterações e andamento do projeto
+23/10:
+ - Download de todos os requisitos e configuração do computador para trabalhar no desenvolvimento do projeto.
+ - Criação de projeto no Ionic, baseado no template sidemenu
