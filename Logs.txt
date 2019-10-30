@@ -5,3 +5,6 @@
 
 26/10:
  - Definição dos componentes do projeto
+
+27/10:
+ - Tentativa de criar um sistema de cadastro e login de usuários. Foi utilizado o tutorial: https://blog.flicher.net/ionic-4-user-registration-login-tutorial/
