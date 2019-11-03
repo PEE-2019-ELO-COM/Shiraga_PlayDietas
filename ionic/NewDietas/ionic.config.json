@@ -1,0 +1,7 @@
+{
+  "name": "NewDietas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
