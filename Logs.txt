@@ -8,3 +8,9 @@
 
 27/10:
  - Tentativa de criar um sistema de cadastro e login de usuários. Foi utilizado o tutorial: https://blog.flicher.net/ionic-4-user-registration-login-tutorial/
+
+03/11:
+ - Realizado o front da plataforma para o registro e para a entrada de usuários. Falta realizar a autenticação.
+Para isso, seguirei o tutorial do Laravel do mesmo blog: https://blog.flicher.net/laravel-rest-api-passport-authentication-for-ionic-app/
+PHP download: https://www.sitepoint.com/how-to-install-php-on-windows/
+composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
