@@ -15,7 +15,7 @@ Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. 
 
 Mockup do Projeto - Planejamento da Interface
 
-![Página Inicial](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png)
+![Página Inicial](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png = 300x610)
 
 A página inicial é a responsável por permitir o usuário entrar no sistema com seu cadastro próprio. Ele diferencia usuários cadastrados efetivamente no programa PlayDietas, de outros usuários que estão somente utilizando o programa pelas informações de saúde, dietas e treinamentos físicos.
 
@@ -23,12 +23,12 @@ A tela permite o usuário se cadastrar (podendo ou não se inscrever no programa
 
 
 
-![Feed de Notícias](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png)
+![Feed de Notícias](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png = 300x610)
 
 O feed de notícias é a página mais comumente visitada pelos usuários, fornecendo de maneira direta e eficiente informações aos usuários e atualizações sobre o programa PlayDietas.
 
 
 
-![Sobre o Projeto](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png)
+![Sobre o Projeto](https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png = 300x610)
 
 A página de informações mostra a importância de se inscrever no programa PlayDietas para potencializar seus resultados e ter de perto o acompanhamento personalizado da equipe multidisciplinar da Clínica Bariátrica.
