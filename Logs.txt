@@ -14,3 +14,6 @@
 Para isso, seguirei o tutorial do Laravel do mesmo blog: https://blog.flicher.net/laravel-rest-api-passport-authentication-for-ionic-app/
 PHP download: https://www.sitepoint.com/how-to-install-php-on-windows/
 composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
+
+04/11:
+ - Alguns problemas ao instalar o PHP. Preciso instalar também o Apache para configurar o PHP para instalar o composer para finalmente fazer o Laravel.
