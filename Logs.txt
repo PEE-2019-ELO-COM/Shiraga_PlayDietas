@@ -17,3 +17,7 @@ composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
 
 04/11:
  - Alguns problemas ao instalar o PHP. Preciso instalar também o Apache para configurar o PHP para instalar o composer para finalmente fazer o Laravel.
+
+09 + 14-17/11:
+ - Resolvendo bugs do Laravel. A conexão do Ionic com o servidor em mySQL não está funcionando (um dos erros é o de autenticação que já tentei validar com as credenciais certas, mas continua a falhar).
+ - Mudança no landing do Ionic.
