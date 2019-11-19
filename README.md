@@ -7,6 +7,20 @@ Gostaria, para o projeto, desenvolver um MVP com apenas algumas funções inicia
 
 A motivação do PlayDietas é oferecer orientações de dietas e cirurgias bariátricas para a sociedade de maneira acessível. É um app que estaria desenvolvendo para meu pai.
 
+# Requisitos
+ - Node.js
+ - Framework Ionic/Angular 4
+ - mySQL (ou outro banco de dados, sendo necessárias alterações)
+ - PHP8 + Framework Laravel
+
+# O que foi desenvolvido...
+Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).
+Estou tentando agora conectar a validação do token no Front-End com o API Laravel Rest no Back-End para, assim, armazenar e resgatar informações básicas dos usuários.
+
+# Diagrama de Classes
+As três classes básicas pensadas no desenvolvimento do projeto. A classe administrador, no caso, seria ocupada pelo cirurgião bariátrico.
+
+<img align="center" width="600" height="300" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
 
 # Interface Gráfica: Ionic
 Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. Estarei seguindo esses guias como base:
@@ -30,3 +44,4 @@ O feed de notícias é a página mais comumente visitada pelos usuários, fornec
 <img align="center" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
 
 A página de informações mostra a importância de se inscrever no programa PlayDietas para potencializar seus resultados e ter de perto o acompanhamento personalizado da equipe multidisciplinar da Clínica Bariátrica.
+
