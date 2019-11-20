@@ -15,6 +15,8 @@ A motivação do PlayDietas é oferecer orientações de dietas e cirurgias bari
 
 # Executando o projeto
 Abra o terminal na pasta NewDietas e execute o comando "ionic serve".
+Após isso, abra as Ferramentas do Desenvolvedor nas opções do navegador, e coloque a visualização no aparelho desejado.
+O projeto utilizou como base o iPhone X, mas funciona para todos os demais, mantendo a proposta de ser multiplataforma.
 
 # O que foi desenvolvido...
 Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).
@@ -23,7 +25,7 @@ Estou tentando agora conectar a validação do token no Front-End com o API Lara
 # Diagrama de Classes
 As três classes básicas pensadas no desenvolvimento do projeto. A classe administrador, no caso, seria ocupada pelo cirurgião bariátrico.
 
-<img align="center" width="600" height="300" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="600" height="300" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
 
 # Interface Gráfica: Ionic
 Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. Estarei seguindo esses guias como base:
@@ -32,19 +34,23 @@ Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. 
 
 Mockup do Projeto - Planejamento da Interface
 
-<img align="center" width="300" height="610" alt="Página Inicial" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Página Inicial" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png">
 
 A página inicial é a responsável por permitir o usuário entrar no sistema com seu cadastro próprio. Ele diferencia usuários cadastrados efetivamente no programa PlayDietas, de outros usuários que estão somente utilizando o programa pelas informações de saúde, dietas e treinamentos físicos.
 
 A tela permite o usuário se cadastrar (podendo ou não se inscrever no programa) para acompanhamento do uso do PlayDietas, e também permite Recuperar a Senha, caso o usuário a esqueça.
 
 
-<img align="center" width="300" height="610" alt="Feed de Notícias" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Feed de Notícias" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png">
 
 O feed de notícias é a página mais comumente visitada pelos usuários, fornecendo de maneira direta e eficiente informações aos usuários e atualizações sobre o programa PlayDietas.
 
 
-<img align="center" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
 
 A página de informações mostra a importância de se inscrever no programa PlayDietas para potencializar seus resultados e ter de perto o acompanhamento personalizado da equipe multidisciplinar da Clínica Bariátrica.
 
+# Projeto atualizado
+Aqui algumas imagens da última versão do projeto.
+
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
