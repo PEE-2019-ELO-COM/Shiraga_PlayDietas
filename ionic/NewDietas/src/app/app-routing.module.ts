@@ -11,10 +11,14 @@ const routes: Routes = [
   { path: 'landing', loadChildren: './pages/landing/landing.module#LandingPageModule' },  
   { path: 'login', loadChildren: './pages/auth/login/login.module#LoginPageModule' },
   { path: 'register', loadChildren: './pages/auth/register/register.module#RegisterPageModule' },
+
+  { path: 'dashboard', loadChildren: './pages/dashboard/dashboard.module#DashboardPageModule'},
+  { path: 'home', loadChildren: './home/home.module#HomePageModule'},
+  { path: 'list', loadChildren: './list/list.module#ListPageModule'},
   
-  { path: 'dashboard', loadChildren: './pages/dashboard/dashboard.module#DashboardPageModule', canActivate: [AuthGuard] },
-  { path: 'home', loadChildren: './home/home.module#HomePageModule', canActivate: [AuthGuard] },
-  { path: 'list', loadChildren: './list/list.module#ListPageModule', canActivate: [AuthGuard] },
+  // { path: 'dashboard', loadChildren: './pages/dashboard/dashboard.module#DashboardPageModule', canActivate: [AuthGuard] },
+  // { path: 'home', loadChildren: './home/home.module#HomePageModule', canActivate: [AuthGuard] },
+  // { path: 'list', loadChildren: './list/list.module#ListPageModule', canActivate: [AuthGuard] },
 ];
 
 @NgModule({

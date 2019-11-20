@@ -13,6 +13,9 @@ A motivação do PlayDietas é oferecer orientações de dietas e cirurgias bari
  - mySQL (ou outro banco de dados, sendo necessárias alterações)
  - PHP8 + Framework Laravel
 
+# Executando o projeto
+Abra o terminal na pasta NewDietas e execute o comando "ionic serve".
+
 # O que foi desenvolvido...
 Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).
 Estou tentando agora conectar a validação do token no Front-End com o API Laravel Rest no Back-End para, assim, armazenar e resgatar informações básicas dos usuários.

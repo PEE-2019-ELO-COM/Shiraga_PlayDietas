@@ -21,3 +21,9 @@ composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
 09 + 14-17/11:
  - Resolvendo bugs do Laravel. A conexão do Ionic com o servidor em mySQL não está funcionando (um dos erros é o de autenticação que já tentei validar com as credenciais certas, mas continua a falhar).
  - Mudança no landing do Ionic.
+
+19 e 20/11:
+ - Criação do front das páginas de Home (sobre o programa PlayDietas) e Dashboard (Feed de Notícias);
+ - Customização da página inicial Landing (Login);
+ - Desativada a autenticação para acessar as páginas acima (assim como a página List, ainda não alterada): código comentado no routing;
+ - Ainda não consegui realizar a autenticação do servidor com o front!!
