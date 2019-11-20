@@ -25,7 +25,7 @@ Estou tentando agora conectar a validação do token no Front-End com o API Lara
 # Diagrama de Classes
 As três classes básicas pensadas no desenvolvimento do projeto. A classe administrador, no caso, seria ocupada pelo cirurgião bariátrico.
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="600" height="300" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="600px" height="300px" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
 
 # Jornada do usuário
 As interações pelas quais o usuário passa durante o uso do programa.
@@ -38,19 +38,19 @@ Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. 
 
 Mockup do Projeto - Planejamento da Interface
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Página Inicial" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Página Inicial" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Initial%20Page.png">
 
 A página inicial é a responsável por permitir o usuário entrar no sistema com seu cadastro próprio. Ele diferencia usuários cadastrados efetivamente no programa PlayDietas, de outros usuários que estão somente utilizando o programa pelas informações de saúde, dietas e treinamentos físicos.
 
 A tela permite o usuário se cadastrar (podendo ou não se inscrever no programa) para acompanhamento do uso do PlayDietas, e também permite Recuperar a Senha, caso o usuário a esqueça.
 
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Feed de Notícias" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Feed de Notícias" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Feed%20de%20Not%C3%ADcias.png">
 
 O feed de notícias é a página mais comumente visitada pelos usuários, fornecendo de maneira direta e eficiente informações aos usuários e atualizações sobre o programa PlayDietas.
 
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
 
 A página de informações mostra a importância de se inscrever no programa PlayDietas para potencializar seus resultados e ter de perto o acompanhamento personalizado da equipe multidisciplinar da Clínica Bariátrica.
 
@@ -60,23 +60,23 @@ Aqui algumas imagens da última versão do projeto.
 <br><br>
 Boas-Vindas
 <br><br>
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/welcome.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/welcome.JPG">
 <br><br><br><br>
 Login
 <br><br>
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/login.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/login.JPG">
 <br><br><br><br>
 Register
 <br><br>
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/register.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/register.JPG">
 <br><br><br><br>
 Home (se Auth=true. Mas a autenticação está desativada por enquanto)
 <br><br>
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/home.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/home.JPG">
 <br><br><br><br>
 Sidemenu
 <br><br><br><br>
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/sidemenu.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/sidemenu.JPG">
 
 
 
@@ -85,4 +85,4 @@ Sidemenu
 Dashboard
 
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/dashboard.JPG">
+<img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/dashboard.JPG">
