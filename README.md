@@ -29,7 +29,7 @@ As três classes básicas pensadas no desenvolvimento do projeto. A classe admin
 
 # Jornada do usuário
 As interações pelas quais o usuário passa durante o uso do programa.
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Fluxo%20da%20trajet%C3%B3ria%20do%20usu%C3%A1rio%20PlayDietas.png">
+<img style="display:block; margin-left:auto; margin-right:auto" width="900" height="600" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Fluxo%20da%20trajet%C3%B3ria%20do%20usu%C3%A1rio%20PlayDietas.png">
 
 # Interface Gráfica: Ionic
 Seguirei inicialmente utilizando o Ionic para montar toda a interface gráfica. Estarei seguindo esses guias como base:
