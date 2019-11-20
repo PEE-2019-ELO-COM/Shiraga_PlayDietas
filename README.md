@@ -53,4 +53,20 @@ A página de informações mostra a importância de se inscrever no programa Pla
 # Projeto atualizado
 Aqui algumas imagens da última versão do projeto.
 
-<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Interface%20Gr%C3%A1fica/Sobre%20o%20projeto.png">
+Boas-Vindas
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/welcome.JPG">
+
+Login
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/login.JPG">
+
+Register
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/register.JPG">
+
+Home (se Auth=true. Mas a autenticação está desativada por enquanto)
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/home.JPG">
+
+Sidemenu
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/sidemenu.JPG">
+
+Dashboard
+<img style="display:block; margin-left:auto; margin-right:auto" width="300" height="610" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/dashboard.JPG">
