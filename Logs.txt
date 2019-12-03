@@ -27,3 +27,7 @@ composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
  - Customização da página inicial Landing (Login);
  - Desativada a autenticação para acessar as páginas acima (assim como a página List, ainda não alterada): código comentado no routing;
  - Ainda não consegui realizar a autenticação do servidor com o front!!
+
+01 e 02/11:
+ - Já que não consigo autenticar com o servidor, tentei realizar um SQL injection para validar o token de entrada. Não obtive sucesso.
+ - Criei um esquema básico de cores para a página de dashboard. Não gostei tanto assim das cores, percebendo que não tenho tantas habilidades como designer. Trabalharei junto com o Product Owner para avançar nesse quesito.

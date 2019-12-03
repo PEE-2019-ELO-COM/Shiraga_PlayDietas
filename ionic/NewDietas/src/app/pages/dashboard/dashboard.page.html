@@ -1,5 +1,5 @@
 <ion-header>
-  <ion-toolbar>
+  <ion-toolbar class="main_head">
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
@@ -7,7 +7,7 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content padding class="main_block">
   <div *ngIf="user != undefined">
       Welcome {{ user["first_name"]  }} {{ user["last_name"]  }}
   </div>
@@ -15,11 +15,11 @@
   <ion-img src="http://www.fsp.usp.br/sustentarea/wp-content/uploads/2019/05/Tipos-de-dietas-1.png">
   </ion-img>
 
-  <p style="font-family:Helvetica, Arial, sans-serif; font-size:25px;text-align:center">
-    <b>3 Regras simples para esta dieta funcionar</b>
+  <p class="title">
+    3 Regras simples para esta dieta funcionar
   </p>
 
-  <p style="font-family:Helvetica, Arial, sans-serif;text-align:justify; font-size:18px">
+  <p>
     <b>1) Alimentos permitidos:</b> carnes magras, peixes, ovos, frutos do mar,
     leite e derivados desnatados, sementes, castanhas, legumes, verduras e frutas.
     <br><br><br>
@@ -33,7 +33,7 @@
     <br><br>
   </p>
 
-  <p style="font-family:Helvetica, Arial, sans-serif; font-size:20px;text-align:center"><b>Dicas simples para uma dieta de sucesso</b></p>
+  <p class="title">Dicas simples para uma dieta de sucesso</p>
 
   <ul style="font-family:Helvetica, Arial, sans-serif;text-align:justify; font-size:18px">
       <li>Não fique mais de 4 horas sem se alimentar</li>
