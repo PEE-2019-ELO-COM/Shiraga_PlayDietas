@@ -21,11 +21,16 @@ O projeto utilizou como base o iPhone X, mas funciona para todos os demais, mant
 # O que foi desenvolvido...
 Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).
 Estou tentando agora conectar a validação do token no Front-End com o API Laravel Rest no Back-End para, assim, armazenar e resgatar informações básicas dos usuários.
+O código básico para autenticação do servidor já foi feita e testada localmente. O problema agora são os crashs do mySQL: o artisan do PHP não consegue realizar a conexão pois o mySQL não consegue
+abrir uma nova tabela de dados. Vamos tentar trocar o SGBD para funcionar com o Laravel.
+Para mais informações, olhe no Log de desenvolvimento do projeto.
 
 # Diagrama de Classes
 As três classes básicas pensadas no desenvolvimento do projeto. A classe administrador, no caso, seria ocupada pelo cirurgião bariátrico.
 
 <img style="display:block; margin-left:auto; margin-right:auto" width="600px" height="300px" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/UMLPlayDietas.JPG">
+
+As classes serão implementadas assim que for possível armazenar os dados no Banco de Dados.
 
 # Jornada do usuário
 As interações pelas quais o usuário passa durante o uso do programa.
@@ -82,7 +87,7 @@ Sidemenu
 
 
 
-Dashboard
+Dashboard - Testando cores
 
 
 <img style="display:block; margin-left:auto; margin-right:auto" width="300px" height="610px" alt="Sobre o Projeto" src="https://github.com/PEE-2019-ELO-COM/Shiraga_PlayDietas/blob/master/Imagens%20Front%20Atualizado/dashboard.JPG">
