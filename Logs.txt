@@ -30,6 +30,7 @@ composer download: https://getcomposer.org/doc/00-intro.md#installation-windows
 
 01 e 02/11:
  - Já que não consigo autenticar com o servidor, tentei realizar um SQL injection para validar o token de entrada. Não obtive sucesso.
+ - Teste de salvar informações localmente feita com sucesso. Não utilizarei os cookies a princípio devido a tokens infinitos gerados pelo método realizado de somar strings(código salvo em pasta paralela).
  - Criei um esquema básico de cores para a página de dashboard. Não gostei tanto assim das cores, percebendo que não tenho tantas habilidades como designer. Trabalharei junto com o Product Owner para avançar nesse quesito.
 Site bom para paleta de cores: https://flatuicolors.com/
  - Descobri que o problema do servidor é a conexão do mySQL, que está bugado na versão 8.0.1.8 para algumas aplicações como essa (sem resposta de fóruns, somente aguardar nova atualização para isso).

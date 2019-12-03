@@ -19,10 +19,10 @@ Após isso, abra as Ferramentas do Desenvolvedor nas opções do navegador, e co
 O projeto utilizou como base o iPhone X, mas funciona para todos os demais, mantendo a proposta de ser multiplataforma.
 
 # O que foi desenvolvido...
-Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).
-Estou tentando agora conectar a validação do token no Front-End com o API Laravel Rest no Back-End para, assim, armazenar e resgatar informações básicas dos usuários.
+O programa já está minimamente funcional. Já montou-se um Front-End básico para a tela de Login do PlayDietas (pasta NewDietas), assim como páginas de Registro para o usuário se cadastrar, e Landing (Home do programa).<br>
+Estou tentando agora conectar a validação do token no Front-End com o API Laravel Rest no Back-End para, assim, armazenar e resgatar informações básicas dos usuários.<br>
 O código básico para autenticação do servidor já foi feita e testada localmente. O problema agora são os crashs do mySQL: o artisan do PHP não consegue realizar a conexão pois o mySQL não consegue
-abrir uma nova tabela de dados. Vamos tentar trocar o SGBD para funcionar com o Laravel.
+abrir uma nova tabela de dados. Vamos tentar trocar o SGBD para funcionar com o Laravel.<br>
 Para mais informações, olhe no Log de desenvolvimento do projeto.
 
 # Diagrama de Classes
